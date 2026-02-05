@@ -1,0 +1,240 @@
+nom,prenom,genre_predit,confiance,methode
+HAFID,tariq,Masculin,100.0,Lookup
+CHERIF,ali,Masculin,100.0,Lookup
+MOUSSA,karim,Masculin,100.0,Lookup
+BELKADI,khadija,Féminin,91.34391534391534,Random Forest
+KACI,hani,Masculin,100.0,Lookup
+MOUSSA,mohammed,Masculin,75.15214561318916,Random Forest
+BENCHEMLA,karim,Masculin,100.0,Lookup
+MAHREZ,karim,Masculin,100.0,Lookup
+ALIMENTAIRE,spa,Féminin,57.67777777777777,Random Forest
+SLIMANI,layla,Féminin,99.7493664717349,Random Forest
+MAHREZ,kadir,Masculin,100.0,Lookup
+NOURI,samira,Féminin,100.0,Lookup
+SOUARI,hana,Féminin,89.44579504316347,Random Forest
+MEKLI,youssef,Masculin,100.0,Lookup
+SLIMANI,sarah,Féminin,100.0,Lookup
+BACHIR,mohammed,Masculin,75.15214561318918,Random Forest
+BOUANANI,hassan,Masculin,100.0,Lookup
+MEDEL,adel,Masculin,100.0,Lookup
+BENALI,aischa,Féminin,100.0,Lookup
+CHABIB,noura,Féminin,100.0,Lookup
+BELKADI,aicha,Féminin,100.0,Lookup
+MEDEL,jamal,Masculin,100.0,Lookup
+MEKLI,ahmed,Masculin,100.0,Lookup
+CHABIB,latifa,Féminin,100.0,Lookup
+KHALED,rachid,Masculin,100.0,Lookup
+LOISIRS,établissement,Masculin,91.18333333333332,Random Forest
+MOUSSA,youssef,Masculin,100.0,Lookup
+MÉDIAS,université,Masculin,63.883333333333326,Random Forest
+MEDJAHED,mohammed,Masculin,75.15214561318915,Random Forest
+MEDJAHED,tina,Féminin,100.0,Lookup
+BENAMEUR,hanane,Féminin,100.0,Lookup
+BOUAZZA,nabil,Masculin,100.0,Lookup
+YOUSFI,sonia,Féminin,100.0,Lookup
+DRISS,kadir,Masculin,100.0,Lookup
+ÉLECTRONIQUE,université,Masculin,63.883333333333326,Random Forest
+BACHIR,ahmed,Masculin,100.0,Lookup
+ALIMENTAIRE,université,Masculin,63.88333333333334,Random Forest
+CONSEIL,sa,Féminin,77.07857142857142,Random Forest
+BENNACEUR,tyna,Féminin,100.0,Lookup
+BELKADI,sarah,Féminin,100.0,Lookup
+MEDEL,latifa,Féminin,100.0,Lookup
+RAHMANI,nadir,Masculin,100.0,Lookup
+HARCHI,mohammed,Masculin,75.15214561318915,Random Forest
+DJOURDEM,anissa,Féminin,100.0,Lookup
+BENZEMA,ali,Masculin,100.0,Lookup
+MEDJAHED,tina,Féminin,100.0,Lookup
+MEDEL,khadija,Féminin,91.34391534391534,Random Forest
+HÔTELLERIE,étude,Masculin,67.62249278499279,Random Forest
+BOUKHALFA,noura,Féminin,100.0,Lookup
+AMANI,fatima,Féminin,100.0,Lookup
+LARBI,khalil,Masculin,100.0,Lookup
+BENNACEUR,fouad,Masculin,100.0,Lookup
+BELAID,tariq,Masculin,100.0,Lookup
+RESTAURATION,étude,Masculin,67.62249278499277,Random Forest
+SLIMANI,mohammed,Masculin,75.15214561318915,Random Forest
+FERRAH,ibrahim,Masculin,100.0,Lookup
+ELKAMEL,noura,Féminin,100.0,Lookup
+CONSEIL,bureau,Masculin,53.48761570407912,Random Forest
+MEZIANE,malika,Féminin,100.0,Lookup
+MAALEM,mohammed,Masculin,75.15214561318915,Random Forest
+KACI,omar,Masculin,100.0,Lookup
+FARAH,sarah,Féminin,100.0,Lookup
+SAIDANI,leena,Féminin,100.0,Lookup
+BENMANSOUR,amira,Féminin,100.0,Lookup
+HARCHI,amin,Masculin,100.0,Lookup
+HAMZA,rachid,Masculin,100.0,Lookup
+MAHREZ,ali,Masculin,100.0,Lookup
+SAID,noura,Féminin,100.0,Lookup
+MEKLI,rachid,Masculin,100.0,Lookup
+BENMANSOUR,malik,Masculin,100.0,Lookup
+BOULANOUAR,omar,Masculin,100.0,Lookup
+BENZEMA,yasmine,Masculin,88.05332212063709,Random Forest
+SAADI,dina,Féminin,95.09166666666667,Random Forest
+MEDEL,khalil,Masculin,100.0,Lookup
+KERMALI,mohammed,Masculin,75.15214561318915,Random Forest
+AMANI,nabil,Masculin,100.0,Lookup
+BOUAZZA,reda,Masculin,100.0,Lookup
+CHABIB,ali,Masculin,100.0,Lookup
+NOURI,fouad,Masculin,100.0,Lookup
+SERVICES,établissement,Masculin,91.18333333333332,Random Forest
+GAOUI,lyna,Féminin,100.0,Lookup
+ELKAMEL,hassan,Masculin,100.0,Lookup
+MAALEM,mohammed,Masculin,75.15214561318916,Random Forest
+BACHIR,rachid,Masculin,100.0,Lookup
+HARCHI,hassan,Masculin,100.0,Lookup
+ACHOUCHE,aicha,Féminin,100.0,Lookup
+MAHREZ,salma,Féminin,99.125,Random Forest
+AMANI,reda,Masculin,100.0,Lookup
+CONSEIL,sa,Féminin,77.07857142857144,Random Forest
+BOUANANI,farida,Féminin,100.0,Lookup
+BOULANOUAR,nadira,Féminin,100.0,Lookup
+LARBI,salma,Féminin,99.125,Random Forest
+BENNACEUR,tina,Féminin,100.0,Lookup
+SAIDANI,fatiha,Féminin,100.0,Lookup
+BENAMEUR,aisha,Féminin,100.0,Lookup
+ELKAMEL,tariq,Masculin,100.0,Lookup
+ACHOUCHE,mohammed,Masculin,75.15214561318915,Random Forest
+HAFID,hamza,Masculin,100.0,Lookup
+HAFID,farida,Féminin,100.0,Lookup
+RAHMANI,lyna,Féminin,100.0,Lookup
+OUALI,mohammed,Masculin,75.15214561318915,Random Forest
+DISTRIBUTION,université,Masculin,63.883333333333326,Random Forest
+CHABIB,amir,Masculin,100.0,Lookup
+CHABIB,mohammed,Masculin,75.15214561318916,Random Forest
+BOUANANI,anissa,Féminin,100.0,Lookup
+ELKAMEL,latifa,Féminin,100.0,Lookup
+AGRICULTURE,université,Masculin,63.883333333333326,Random Forest
+HAFID,sonia,Féminin,100.0,Lookup
+ELKAMEL,malik,Masculin,100.0,Lookup
+BENZEMA,malika,Féminin,100.0,Lookup
+SAADI,tina,Féminin,100.0,Lookup
+BENZEMA,rania,Féminin,100.0,Lookup
+CHERIF,rania,Féminin,100.0,Lookup
+BENCHEMLA,hamza,Masculin,100.0,Lookup
+FERRAH,kadir,Masculin,100.0,Lookup
+TOURISME,université,Masculin,63.88333333333334,Random Forest
+TOURISME,atelier,Masculin,84.84993148758235,Random Forest
+KHALED,latifa,Féminin,100.0,Lookup
+BOUAZZA,aisha,Féminin,100.0,Lookup
+AGRICULTURE,bureau,Masculin,53.48761570407912,Random Forest
+MEZIANE,tina,Féminin,100.0,Lookup
+OUALI,hamza,Masculin,100.0,Lookup
+BENZEMA,karim,Masculin,100.0,Lookup
+BOUANANI,sonia,Féminin,100.0,Lookup
+FERRAH,rania,Féminin,100.0,Lookup
+BENNACEUR,ali,Masculin,100.0,Lookup
+BOUKHALFA,tina,Féminin,100.0,Lookup
+HÔTELLERIE,atelier,Masculin,84.84993148758234,Random Forest
+FERRAH,fatiha,Féminin,100.0,Lookup
+BOUKHALFA,aisha,Féminin,100.0,Lookup
+FARAH,lina,Féminin,100.0,Lookup
+MEZIANE,rachid,Masculin,100.0,Lookup
+YOUSFI,tina,Féminin,100.0,Lookup
+BOUMEDIENE,chloe,Masculin,77.08244255744253,Random Forest
+BOUMEDIENE,ali,Masculin,100.0,Lookup
+ELKAMEL,lina,Féminin,100.0,Lookup
+SAADI,hassan,Masculin,100.0,Lookup
+MEKLI,omar,Masculin,100.0,Lookup
+BOUKHALFA,tariq,Masculin,100.0,Lookup
+DJOURDEM,nadir,Masculin,100.0,Lookup
+MOUSSA,amir,Masculin,100.0,Lookup
+BACHIR,tina,Féminin,100.0,Lookup
+HARCHI,malik,Masculin,100.0,Lookup
+CHERIF,rania,Féminin,100.0,Lookup
+SOUDI,hassan,Masculin,100.0,Lookup
+MOUSSA,jamal,Masculin,100.0,Lookup
+ÉNERGIE,sa,Féminin,77.07857142857144,Random Forest
+MAALEM,tyna,Féminin,100.0,Lookup
+AGRICULTURE,atelier,Masculin,84.84993148758235,Random Forest
+MEDJAHED,nadia,Féminin,100.0,Lookup
+BENCHEMLA,majid,Masculin,100.0,Lookup
+CHABIB,amir,Masculin,100.0,Lookup
+TALEB,tina,Féminin,100.0,Lookup
+MAHREZ,hamza,Masculin,100.0,Lookup
+HARCHI,salma,Féminin,99.125,Random Forest
+LARBI,hani,Masculin,100.0,Lookup
+BOUAZZA,aziz,Masculin,100.0,Lookup
+SAIDANI,hana,Féminin,89.44579504316346,Random Forest
+MEKLI,tariq,Masculin,100.0,Lookup
+HARCHI,kadir,Masculin,100.0,Lookup
+RAHMANI,youssef,Masculin,100.0,Lookup
+MÉCANIQUE,sa,Féminin,77.07857142857144,Random Forest
+AMANI,latifa,Féminin,100.0,Lookup
+BOULANOUAR,karim,Masculin,100.0,Lookup
+SLIMANI,nabil,Masculin,100.0,Lookup
+SLIMANI,amir,Masculin,100.0,Lookup
+BENZEMA,tyna,Féminin,100.0,Lookup
+YOUSFI,omar,Masculin,100.0,Lookup
+SLIMANI,rachid,Masculin,100.0,Lookup
+BENNACEUR,jamal,Masculin,100.0,Lookup
+BENCHEMLA,yasmine,Masculin,88.05332212063709,Random Forest
+BACHIR,tyna,Féminin,100.0,Lookup
+CHIMIE,bureau,Masculin,53.487615704079126,Random Forest
+BOUAZZA,fatima,Féminin,100.0,Lookup
+TÉLÉCOMMUNICATIONS,université,Masculin,63.88333333333334,Random Forest
+RAHMANI,fares,Masculin,100.0,Lookup
+INGÉNIERIE,bureau,Masculin,53.48761570407912,Random Forest
+MOUSSA,jamal,Masculin,100.0,Lookup
+SAIDANI,karim,Masculin,100.0,Lookup
+MEDJAHED,mohammed,Masculin,75.15214561318916,Random Forest
+TALEB,nadir,Masculin,100.0,Lookup
+KERMALI,hassan,Masculin,100.0,Lookup
+BENMANSOUR,reda,Masculin,100.0,Lookup
+MEDEL,nadir,Masculin,100.0,Lookup
+BENAMEUR,anissa,Féminin,100.0,Lookup
+AGRICULTURE,atelier,Masculin,84.84993148758235,Random Forest
+FINANCE,établissement,Masculin,91.18333333333332,Random Forest
+ALIMENTAIRE,atelier,Masculin,84.84993148758235,Random Forest
+SAID,tyna,Féminin,100.0,Lookup
+LARBI,amin,Masculin,100.0,Lookup
+BENMANSOUR,malika,Féminin,100.0,Lookup
+TALEB,zahra,Féminin,100.0,Lookup
+ELKAMEL,rachid,Masculin,100.0,Lookup
+SOUDI,chloe,Masculin,77.08244255744255,Random Forest
+BOULANOUAR,mohammed,Masculin,75.15214561318915,Random Forest
+SOUDI,amin,Masculin,100.0,Lookup
+SAIDANI,lina,Féminin,100.0,Lookup
+SAADI,tyna,Féminin,100.0,Lookup
+IMMOBILIER,atelier,Masculin,84.84993148758235,Random Forest
+HAFID,amir,Masculin,100.0,Lookup
+CHERIF,karim,Masculin,100.0,Lookup
+HAFID,malik,Masculin,100.0,Lookup
+YOUSFI,nadir,Masculin,100.0,Lookup
+FARAH,ahmed,Masculin,100.0,Lookup
+BELKADI,mohammed,Masculin,75.15214561318915,Random Forest
+KERMALI,rania,Féminin,100.0,Lookup
+BELKADI,nadira,Féminin,100.0,Lookup
+SOUDI,ali,Masculin,100.0,Lookup
+DRISS,ahmed,Masculin,100.0,Lookup
+SAIDANI,aischa,Féminin,100.0,Lookup
+RAHMANI,nadia,Féminin,100.0,Lookup
+RAHMANI,fouad,Masculin,100.0,Lookup
+BOULANOUAR,omar,Masculin,100.0,Lookup
+SAADI,nadir,Masculin,100.0,Lookup
+BENAMEUR,layla,Féminin,99.7493664717349,Random Forest
+DJOURDEM,hana,Féminin,89.44579504316346,Random Forest
+FARAH,rachid,Masculin,100.0,Lookup
+FELLAG,jamal,Masculin,100.0,Lookup
+MEDJAHED,karim,Masculin,100.0,Lookup
+MAALEM,omar,Masculin,100.0,Lookup
+ALIMENTAIRE,spa,Féminin,57.67777777777777,Random Forest
+AMANI,amir,Masculin,100.0,Lookup
+OUALI,tina,Féminin,100.0,Lookup
+GAOUI,nabil,Masculin,100.0,Lookup
+KACI,amir,Masculin,100.0,Lookup
+MAALEM,noura,Féminin,100.0,Lookup
+SAIDANI,farida,Féminin,100.0,Lookup
+BOUKHALFA,tina,Féminin,100.0,Lookup
+BENZEMA,farida,Féminin,100.0,Lookup
+BACHIR,youssef,Masculin,100.0,Lookup
+AMANI,amir,Masculin,100.0,Lookup
+ÉNERGIE,université,Masculin,63.88333333333334,Random Forest
+OUALI,reda,Masculin,100.0,Lookup
+BELAID,hassan,Masculin,100.0,Lookup
+KHALED,rana,Féminin,95.57142857142857,Random Forest
+KACI,karim,Masculin,100.0,Lookup
+KACI,sarah,Féminin,100.0,Lookup
+HARCHI,farida,Féminin,100.0,Lookup
+KHALED,samir,Masculin,100.0,Lookup
